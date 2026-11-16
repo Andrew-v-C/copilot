@@ -1,0 +1,4 @@
+- Always use `uv run` to execute Python scripts and `uv pip install` or `uv add` to install dependencies; never run global `pip`.
+- Interpret the "^" character in a prompt to mean "most recent screenshot" (look in `D:\Pictures\Screenshots`).
+- Use LaTeX when writing math in Markdown files.
+- Use Tectonic to compile TeX files.
